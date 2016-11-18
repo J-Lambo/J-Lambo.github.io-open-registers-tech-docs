@@ -1,0 +1,5 @@
+site_name: Registers API documentation
+pages:
+    - Overview: index.md
+    - About registers: about.md
+theme: readthedocs
