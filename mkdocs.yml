@@ -1,5 +1,24 @@
 site_name: Registers API documentation
 pages:
-    - Overview: index.md
-    - About registers: about.md
+- Overview:
+    - 'Using registers in a service': 'index.md'
+    - 'About registers':  'overview/about.md'
+    - 'Available registers': 'overview/available_reg.md'
+
+- Getting started:
+    - 'Before you start': 'getting_started/before_start.md'
+    - 'Quick start guide': 'getting_started/quick_start.md'
+    - 'Records, entries, and items': 'getting_started/definitions.md'
+
+- API reference:
+    - 'API reference': 'api_referece/api_reference.md'
+    - 'Rate limits': 'api_reference/rate_limits.md'
+
+- Support:
+    - 'Errors': 'support/troubleshooting.md'
+    - 'Support and community': 'support/support_community.md'
+
+- 'Glossary': 'glossary.md'
+
+copyright: Found a mistake in this documentation? Or do you have a question it doesn't answer? Please email us at <a href="mailto:registerteam@digital.cabinet-office.gov.uk">registerteam@digital.cabinet-office.gov.uk</a>.
 theme: readthedocs
