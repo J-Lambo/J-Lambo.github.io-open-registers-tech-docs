@@ -2,7 +2,7 @@ site_name: Registers API documentation
 theme: readthedocs
 pages:
 - Overview:
-    - 'Using registers in a service': 'index.md'
+    - 'Using registers in a service': 'overview/index.md'
     - 'About registers':  'overview/about.md'
     - 'Available registers': 'overview/available_reg.md'
 - Getting started:
@@ -10,7 +10,7 @@ pages:
     - 'Quick start guide': 'getting_started/quick_start.md'
     - 'Records, entries, and items': 'getting_started/definitions.md'
 - API reference:
-    - 'API reference': 'api_referece/api_reference.md'
+    - 'API reference': 'api_reference/api_reference.md'
     - 'Rate limits': 'api_reference/rate_limits.md'
 - Support:
     - 'Errors': 'support/troubleshooting.md'
