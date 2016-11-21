@@ -10,7 +10,8 @@ The [country register](https://country.register.gov.uk/) is a list of British-En
 
 The country register doesn’t include territories, for example, Taiwan, Gibraltar, and the Occupied Palestinian Territories. These are included in the territories register, which is in discovery.
 
-The country register contains the following fields:    
+The country register contains the following fields:
+
 * `country` (2 letter ISO 3166-2 code)  
 * `name` (commonly used name of a country)  
 * `official-name` (official name of a country)
@@ -25,6 +26,7 @@ You may need to remove records with an end-date, such as East Germany, if your s
 The [register of local authorities in England](https://local-authority-eng.register.gov.uk/) is maintained by the Department for Communities and Local Government.
 
 The register contains the following fields:
+
 * `local-authority-eng` (3 letter ISO code or equivalent)
 * `local-authority-type` (type of local government organisation)
 * `name`(commnonly used name of a local authority)
