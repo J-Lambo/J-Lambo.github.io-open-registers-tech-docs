@@ -2,7 +2,7 @@ site_name: Registers API documentation
 theme: readthedocs
 pages:
 - Overview:
-    - 'Using registers in a service': 'overview/index.md'
+    - 'Using registers in a service': 'index.md'
     - 'About registers':  'overview/about.md'
     - 'Available registers': 'overview/available_reg.md'
 - Getting started:
