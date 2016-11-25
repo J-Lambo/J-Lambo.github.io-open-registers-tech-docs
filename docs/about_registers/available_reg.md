@@ -12,12 +12,12 @@ The country register doesn’t include territories, for example, Taiwan, Gibralt
 
 The country register contains the following fields:
 
-  + `country` (2 letter ISO 3166-2 code)  
-  + `name` (commonly used name of a country)  
-  + `official-name` (official name of a country)
-  + `citizen-names` (name of the citizens of a country)
-  + `start-date` (when the country was first recognised)  
-  + `end-date` (when the country was dissolved or changed its name)
+- `country` (2 letter ISO 3166-2 code)
+- `name` (commonly used name of a country)
+- `official-name` (official name of a country)
+- `citizen-names` (name of the citizens of a country)
+- `start-date` (when the country was first recognised)
+- `end-date` (when the country was dissolved or changed its name)
 
 You may need to remove records with an end-date, such as East Germany, if your service or product only requires data about existing countries.
 
