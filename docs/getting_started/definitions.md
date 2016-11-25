@@ -18,4 +18,4 @@ Each register uses an unique identifier, which is a unique field only used in th
 
 ### Records
 
-Records are the current version of the register. For example, the country register contains 199 records, each up to date with the latest information of the 1999 countries recognised by the Foreign and Commonwealth Office.
+Records are the current version of the register. For example, the country register contains 199 records, each up to date with the latest information of the 199 countries recognised by the Foreign and Commonwealth Office.
