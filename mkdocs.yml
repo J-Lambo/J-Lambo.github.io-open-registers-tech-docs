@@ -13,7 +13,7 @@ pages:
     - 'API reference': 'using_the_api/api_reference.md'
     - 'Rate limits': 'using_the_api/rate_limits.md'
 - Support:
-    - 'Errors': 'support/troubleshooting.md'
+    - 'Troubleshooting': 'support/troubleshooting.md'
     - 'Support and community': 'support/support_community.md'
 - Glossary: 'glossary/glossary.md'
 copyright: Found a mistake in this documentation? Or do you have a question it doesn't answer? Please email us at <a href="mailto:registerteam@digital.cabinet-office.gov.uk">registerteam@digital.cabinet-office.gov.uk</a>.
