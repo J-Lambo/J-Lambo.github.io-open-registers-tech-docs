@@ -1,5 +1,3 @@
-## Before you start
-
 To start using open registers, you’ll need:  
 
 * a new or existing digital service that needs a reliable source of data, such as a list of countries

@@ -1,5 +1,3 @@
-## Quick start guide
-
 1. Find out [what open registers are available](#availablereg) and which you want to use.
 2. Each open register has a read-only API. No authentication is required.
 3. [Find the endpoints you want](#apireference).
