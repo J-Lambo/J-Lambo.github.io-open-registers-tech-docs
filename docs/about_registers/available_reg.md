@@ -25,12 +25,11 @@ You may need to remove records with an end-date, such as East Germany, if your s
 The [register of local authorities in England](https://local-authority-eng.register.gov.uk/) is maintained by the Department for Communities and Local Government.
 
 The register contains the following fields:
-
-  + `local-authority-eng` (3 letter ISO code or equivalent)
-  + `local-authority-type` (type of local government organisation)
-  + `name`(commnonly used name of a local authority)
-  + `official-name`(official name of local authority)
-  + `start-date` (when the local authority was first established)
-  + `end-date`(when the local authority was dissolved or changed its name)
+* `local-authority-eng` (3 letter ISO code or equivalent)
+* `local-authority-type` (type of local government organisation)
+* `name`(commnonly used name of a local authority)
+* `official-name`(official name of local authority)
+* `start-date` (when the local authority was first established)
+* `end-date`(when the local authority was dissolved or changed its name)
 
 You may need to remove records with an end-date if your service or product only requires data about existing local authorities.
