@@ -9,7 +9,7 @@ pages:
     - 'Before you start': 'getting_started/before_start.md'
     - 'Quick start guide': 'getting_started/quick_start.md'
     - 'Records, entries, and items': 'getting_started/definitions.md'
-- Using the API:
+- Using the APIs:
     - 'API reference': 'using_the_api/api_reference.md'
     - 'Rate limits': 'using_the_api/rate_limits.md'
 - Support:
