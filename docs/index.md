@@ -1,5 +1,3 @@
-# Using registers in a service
-
 This is the API reference and general technical guide for open registers built by Government Digital Service (GDS). This guide is for developers, technical architects, and other members of service teams interested in using open registers in a service.
 
 Open registers APIs provide a direct and standard way to access data so you can be confident the data in your service is accurate, up-to-date and authoritative.
