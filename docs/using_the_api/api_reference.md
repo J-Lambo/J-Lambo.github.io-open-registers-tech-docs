@@ -17,7 +17,8 @@ Most of the APIs return paginated results. Follow the specific guidance for each
 
 Path: GET /register
 
-View information about a register, including:
+View information about a register, including:  
+
 * the internet domain the register is on
 * when the register was last updated
 * how many entries and records the register contains
