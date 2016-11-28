@@ -10,8 +10,8 @@ pages:
     - 'Quick start guide': 'getting_started/quick_start.md'
     - 'Records, entries, and items': 'getting_started/definitions.md'
 - API reference:
-    - 'API reference': 'api_reference/api_reference.md'
-    - 'Rate limits': 'api_reference/rate_limits.md'
+    - 'API reference': 'using_the_api/api_reference.md'
+    - 'Rate limits': 'using_the_api/rate_limits.md'
 - Support:
     - 'Errors': 'support/troubleshooting.md'
     - 'Support and community': 'support/support_community.md'
