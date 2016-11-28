@@ -2,7 +2,7 @@
 
 An open register has [distinct characteristics](https://gds.blog.gov.uk/2015/10/13/the-characteristics-of-a-register/) that make it different from a traditional database, for example.
 
-An open register is:  
+An open register:  
 
 * is canonical - the only place where government holds that data  
 * only contains the data it was created to record and is append-only  
