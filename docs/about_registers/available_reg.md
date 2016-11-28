@@ -10,8 +10,7 @@ The [country register](https://country.register.gov.uk/) is a list of British-En
 
 The country register doesn’t include territories, for example, Taiwan, Gibraltar, and the Occupied Palestinian Territories. These are included in the territories register, which is in discovery.
 
-The country register contains the following fields:
-
+The country register contains the following fields:  
 - `country` (2 letter ISO 3166-2 code)
 - `name` (commonly used name of a country)
 - `official-name` (official name of a country)
