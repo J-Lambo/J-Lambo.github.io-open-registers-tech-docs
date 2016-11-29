@@ -12,8 +12,8 @@ The country register doesn’t include territories, for example, Taiwan, Gibralt
 
 The country register contains the following fields:  
 
-* `country` - a 2 letter ISO 3166-2 code  
-* `name` - commonly used name of a country  
+* a 2 letter ISO 3166-2 code - `country`  
+* commonly used name of a country - `name`
 * `official-name` - official name of a country  
 * `citizen-names` - name of the citizens of a country  
 * `start-date` - when the country was first recognised  
