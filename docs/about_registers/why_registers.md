@@ -10,6 +10,6 @@ An open register:
 * uses standard names  
 * can prove the integrity of the data within it  
 * only contains raw, not derived, data  
-* must have a custodian (someone responsible for its maintenance)   
+* must have a someone responsible for its maintenance, known as a custodian  
 
 Open registers are append-only. Some open registers use an `end-date` field to note when an entry ceases to be valid. For example, in the country register, the end-date contains the date when a country was dissolved or changed its name.
