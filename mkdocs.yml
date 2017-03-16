@@ -1,5 +1,7 @@
-site_name: Registers API documentation
+site_name: This documentation has moved
 theme: readthedocs
+extra_javascript:
+  - redirect.js
 pages:
 - Overview:
     - 'Using registers in a service': 'index.md'
@@ -17,4 +19,4 @@ pages:
     - 'Support and community': 'support/support_community.md'
 - Glossary: 'glossary/glossary.md'
 
-copyright: This documentation is no longer maintained. Please visit https://registers-docs.cloudapps.digital/ for the latest documentation. 
+copyright: This documentation is no longer maintained. Please visit https://registers-docs.cloudapps.digital/ for the latest documentation.

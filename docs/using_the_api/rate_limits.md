@@ -1,5 +1,2 @@
-## Rate limits
-
-You are encouraged to use the register APIs within reasonable bounds.
-
-Contact the GDS open registers team at <a href="mailto:registerteam@digital.cabinet-office.gov.uk">registerteam@digital.cabinet-office.gov.uk</a> if you have any questions.
+# This documentation has now moved
+This page can now be found at [https://registers-docs.cloudapps.digital/#rate-limits](https://registers-docs.cloudapps.digital/#rate-limits).
